@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python-headless
+numpy
+pandas
+pillow
+matplotlib
