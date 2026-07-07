@@ -55,7 +55,7 @@ COLOR_MAP = {
 def load_model():
 
     model_path = hf_hub_download(
-        repo_id="Neel-Bokil/Disaster_Assessment_Model",
+        repo_id="Neel-Bokil/New_Disaster_Resilience_Model",
         filename="best_unet_resnet34.pth"
     )
 
